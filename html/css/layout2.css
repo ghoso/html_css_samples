@@ -1,0 +1,13 @@
+/* layout.html css */
+.container {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  grid-template-rows: 200px 200px;
+  gap: 10px;
+}
+
+.block {
+  background: #0bd;
+  color: #fff;
+}

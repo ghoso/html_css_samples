@@ -1,0 +1,13 @@
+/* layout.html css */
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.block {
+  background: #0bd;
+  color: #fff;
+  margin: 10px;
+  padding: 10px;
+}

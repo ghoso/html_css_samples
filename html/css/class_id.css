@@ -1,0 +1,22 @@
+/* Head1 */
+h1 {
+  color: blue;
+  font-family: "游ゴシック","Yu Gothic", YuGothic, san-serif;
+  text-align: center;
+}
+
+/* DIV block */
+.message {
+  font-size: 18px;
+  font-family: "ヒラノギ丸ゴ Pro W4", "Hiranogi Maru Gothic Pro", sans-serif;
+  line-height: 1.7;
+  text-align: center;
+}
+
+/* P block */
+#framework {
+  font-size: 20px;
+  font-family: "Arial", "メイリオ";
+  font-weight: bold;
+  text-align: center;
+}
